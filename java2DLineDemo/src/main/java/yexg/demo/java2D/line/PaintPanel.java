@@ -40,8 +40,6 @@ public class PaintPanel extends JPanel {
 				tmpBean.endx = (int) (tmpBean.startx+one);
 				drawLine(g2d, tmpBean);
 			}
-			lineLength = tmpBean.endx-tmpBean.startx;
-			one = lineLength/tmpBean.split;
 			
 		}
 	}
