@@ -2,11 +2,8 @@ package yexg.demo.java2D.line;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.geom.Line2D;
 
 import javax.swing.JPanel;
-
-import com.sun.org.apache.xalan.internal.xsltc.compiler.Template;
 
 public class PaintPanel extends JPanel {
 	
